@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckVietNamese", "CheckVietNamese\CheckVietNamese.csproj", "{4BC27F9C-AD9F-4B8E-9B1E-A18BED1FB595}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupChkVietNamese", "SetupChkVietNamese\SetupChkVietNamese.vdproj", "{33903D08-4493-4C4F-B610-8080AAE4E598}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BC27F9C-AD9F-4B8E-9B1E-A18BED1FB595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC27F9C-AD9F-4B8E-9B1E-A18BED1FB595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC27F9C-AD9F-4B8E-9B1E-A18BED1FB595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC27F9C-AD9F-4B8E-9B1E-A18BED1FB595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33903D08-4493-4C4F-B610-8080AAE4E598}.Debug|Any CPU.ActiveCfg = Debug
+		{33903D08-4493-4C4F-B610-8080AAE4E598}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

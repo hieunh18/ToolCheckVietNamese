@@ -1,0 +1,49 @@
+//bool result = false;
+
+			//// tim kiem chinh xac trong tu dien
+			//if( this.dicDt.ContainsValue( vlSource ) == true)
+			//{
+			//	return true;
+			//}
+			//else // khong co tiep tuc tim kiem tuong doi
+			//{
+			//	foreach ( KeyValuePair<string, string> itemDic in dicDt )
+			//	{
+			//		if ( vlSource.IndexOf( itemDic.Value ) > 0 )
+			//		{
+			//			return true;
+			//		}
+			//	}
+			//}
+
+			//return result;
+
+			//string[] words = vlSource.Split( delimiterChars );
+
+			//if ( this.radioButtonOther.Checked == true )
+			//{
+			//	//return this.dicDt.ContainsValue( vlSource );
+
+			//	foreach ( KeyValuePair<string, string> itemDic in dicDt )
+			//	{
+			//		if ( vlSource.IndexOf( itemDic.Value ) > INT_ZERO )
+			//		{
+			//			return true;
+			//		}
+			//	}
+			//}
+			//else // xu ly cho excel tim gan giong
+			//{
+			//	vlSource = Regex.Replace( this.chkContent.ToUpper(), SPECIAL_REG, " " );
+			//	string[] arrListStr = vlSource.Split( ' ' );
+
+			//	foreach ( KeyValuePair<string, string> itemDic in dicDt )
+			//	{
+			//		if ( Array.IndexOf(arrListStr, itemDic.Value ) > 0 )
+			//		{
+			//			return true;
+			//		}
+			//	}
+			//}
+
+			//return false;
